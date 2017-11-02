@@ -1,5 +1,10 @@
 # feathers-authentication-custom
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/feathersjs-ecosystem/feathers-authentication-custom.svg)](https://greenkeeper.io/)
+[![Build Status](https://travis-ci.org/feathersjs-ecosystem/feathers-authentication-custom.png?branch=master)](https://travis-ci.org/feathersjs-ecosystem/feathers-authentication-custom)
+[![Dependency Status](https://img.shields.io/david/feathersjs-ecosystem/feathers-authentication-custom.svg?style=flat-square)](https://david-dm.org/feathersjs-ecosystem/feathers-authentication-custom)
+[![Download Status](https://img.shields.io/npm/dm/feathersjs-ecosystem/feathers-authentication-custom.svg?style=flat-square)](https://www.npmjs.com/package/feathers-authentication-custom)
+
 > Custom authentication strategy for feathers-authentication using Passport
 
 ## Installation
