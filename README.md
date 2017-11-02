@@ -13,10 +13,6 @@
 npm install feathers-authentication-custom --save
 ```
 
-## Documentation
-
-<!-- Please refer to the [feathers-authentication-custom documentation](http://docs.feathersjs.com/) for more details. -->
-
 ## API
 
 This module is a wrapper around the [passport-custom](https://www.npmjs.com/package/passport-custom) strategy which allows you implement a custom verifier function for authenticating requests. 
